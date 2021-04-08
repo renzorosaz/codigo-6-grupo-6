@@ -1,0 +1,5 @@
+@import url("./estilos.css");
+
+.titulo{
+    color: var(--magenta);
+}
